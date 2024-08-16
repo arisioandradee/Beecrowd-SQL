@@ -1,13 +1,12 @@
-![Teste](https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png)
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/452657937/1132479a-b4e2-476a-93c6-dc0fcabab6d6" alt="Teste" />
+</p>
 
 ## O que é Beecrowd?
 [Beecrowd](https://www.beecrowd.com.br/judge/en/login) é uma plataforma online que oferece desafios e exercícios de programação para desenvolvedores aprimorarem suas habilidades. Este repositório foi criado para armazenar e compartilhar as soluções para os exercícios de SQL propostos na plataforma.
 
 ## Sobre esse repositório
-Este repositório contém as resoluções dos exercícios de SQL do site Beecrowd feitas por mim como forma de treinamento, os exercicios realizados vão do número 2602 a 2625.
+Este repositório contém as soluções para os exercícios de SQL disponíveis no Beecrowd, especificamente aqueles com números de 2602 a 2625. As resoluções foram desenvolvidas como parte do meu treinamento pessoal e estão sendo compartilhadas aqui para referência e aprendizado. Você pode utilizar este repositório para estudar e entender diferentes abordagens para os problemas de SQL.
 
-## Agradecimentos
-
-Agradeço ao [Beecrowd](https://www.beecrowd.com.br/judge/en/login) por fornecer uma plataforma valiosa para o aprimoramento das minhas habilidades em SQL.
 
 
